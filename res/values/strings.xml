@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Rorschach</string>
-
+    <string name="label_bg_color">Background Color</string>
+    <string name="label_fg_color">Inkblot Color</string>
+	<string name="label_frame_rate">Frame Rate: %d FPS</string>
+	<string name="label_num_blots">Inkblot Number: %d</string>
+	<string name="label_blot_size">Inkblot Size: %d</string>
+	<string name="label_movement_factor">Movement Factor: %f</string>
+	<string name="label_antialiasing">Antialiasing</string>
 </resources>
